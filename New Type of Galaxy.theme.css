@@ -1,0 +1,62 @@
+/**
+* @name New Type of Galaxy
+* @author Pᴜʀᴘʟᴇ Wɪᴢᴀʀᴅ#0984
+* @authorLink https://github.com/GoldenLys
+* @version 2.0
+* @invite SBuYeHh
+* @description An amazing RGB theme with full customization included, made by Purple Wizard.
+* @source https://github.com/GoldenLys/BetterDiscord-Elysia
+* @website https://goldenlys.github.io/ThemeGen
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://fonts.googleapis.com/css?family=Gruppo&amp;display=swap");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+:root {
+--title: "New Type of Galaxy";
+--background: url(https://greatlakesledger.com/wp-content/uploads/2019/06/new-type-of-galaxy.jpg);
+--font: "Gruppo";
+--time: 5s;
+--Online: rgb(0, 255, 136);
+--Idle: rgb(255, 183, 0);
+--Unavailable: rgb(228, 15, 0);
+--Offline: rgb(90, 95, 100);
+--Playing: url(https://cdn.discordapp.com/attachments/476154188494143498/680898006937370645/provenance.jpg);
+--Xbox: url(https://cdn.discordapp.com/attachments/476154188494143498/680898003246252176/energyunion.jpg);
+--Spotify: url(https://cdn.discordapp.com/attachments/476154188494143498/680898009122340937/spacestorm.jpg);
+--Streaming: url(https://cdn.discordapp.com/attachments/476154188494143498/680897535828557844/aldebaran.jpg);
+--grey: rgb(77, 70, 85);
+--darkgrey: rgb(18, 18, 18);
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--logo: url(https://cdn.discordapp.com/attachments/476154188494143498/675832706386362398/ALPHA4.gif);
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "Hey! Wanna have some fun.. Join US !";
+--AddNewServer: "➕ Add a new server";
+--Close: "🔴";
+--Resize: "🔵";
+--Hide: "⚫";
+--ProfilePic: "Watch me";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "🙂";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "purpies";
+--WelcomeMessage: "Theme base designed by Purple Wizard.";
+--Watermark: "Made with 💖 by Purple Wizard";
+--EditStatus: "Put another status";
+--Folders: "📁";
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: var(--darkgrey5);
+--ServerSize: 45px;
+--animation: rgb(130, 0, 216), rgb(0, 225, 255);
+--grey5: rgba(77, 70, 85, .5);
+--darkgrey5: rgba(18, 18, 18, .75);
+--Primary: rgb(130, 0, 216);
+} /* Made with Purple Wizard theme generator v2.0, have fun ! */
